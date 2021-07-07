@@ -1,1 +1,12 @@
-# oracle_2d_graphics_tutorial
+# Oracle 2D Graphics Tutorial
+
+Following [this tutorial](https://docs.oracle.com/javase/tutorial/2d/).
+
+## TODOs
+
+This list should gradually build up my skills.
+
+- [ ] Draw a circle on a canvas.
+- [ ] Make the circle move.
+- [ ] Draw multiple shapes on a canvas.
+- [ ] Make them move independently of each other.
