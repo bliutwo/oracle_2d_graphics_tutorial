@@ -14,4 +14,11 @@
 1. See the following code:
 
 ```java
+class HelloWorldApp {
+    public static void main(String[] args) {
+        System.out.println("Hola Mundo!"); // Display the string.
+    }
+}
 ```
+
+
