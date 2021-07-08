@@ -6,6 +6,8 @@ Also here: https://docs.oracle.com/javase/tutorial/2d/basic2d/index.html
 
 Java tutorials homepage: https://docs.oracle.com/javase/tutorial/index.html
 
+Bookmark: [What Is a Class?](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
+
 ## TODOs
 
 This list should gradually build up my skills.
