@@ -2,6 +2,8 @@
 
 Following [this tutorial](https://docs.oracle.com/javase/tutorial/2d/).
 
+Also here: https://docs.oracle.com/javase/tutorial/2d/basic2d/index.html
+
 ## TODOs
 
 This list should gradually build up my skills.
