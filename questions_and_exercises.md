@@ -21,4 +21,4 @@ class HelloWorldApp {
 }
 ```
 
-
+2. The error was that the string literal was unclosed. Needed to add another set of quotation marks before the closing parenthesis.
