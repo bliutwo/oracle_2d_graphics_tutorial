@@ -2,9 +2,8 @@
 
 Following [this tutorial](https://docs.oracle.com/javase/tutorial/2d/).
 
+Bookmark: [Lesson: Language Basics](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
 
-
-Bookmark: [What Is a Class?](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
 
 ## TODOs
 
