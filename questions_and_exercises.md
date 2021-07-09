@@ -27,13 +27,13 @@ class HelloWorldApp {
 
 ## Questions
 
-1. Real-world objects contain **behaviors** and **states**.
-2. A software object's state is stored in **variables**.
+1. Real-world objects contain **behaviors** and **states** (state and behavior, but it's the same).
+2. A software object's state is stored in ~~**variables**~~ **fields**.
 3. A software object's behavior is exposed through **methods**.
 4. Hiding internal data from the outside world, and accessing it only through publicly exposed methods is known as data **encapsulation**.
 5. A blueprint for a software object is called a **class**.
-6. Common behavior can be defined in a **class** and inherited into a **subclass** using the **extends** keyword.
-7. A collection of methods with no implementation is called an **implementation**.
+6. Common behavior can be defined in a ~~**class**~~ **superclass** and inherited into a **subclass** using the **extends** keyword.
+7. A collection of methods with no implementation is called an ~~**implementation**~~ **interface**.
 8. A namespace that organizes classes and interfaces by functionality is called a **package**.
 9. The term API stands for **Application Programming Interface**.
 
