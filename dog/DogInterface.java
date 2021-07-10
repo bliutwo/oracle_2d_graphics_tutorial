@@ -1,6 +1,6 @@
 package dog;
 
-interface DogInterface {
+public interface DogInterface {
 
     void setName(String newName);
     String getName();

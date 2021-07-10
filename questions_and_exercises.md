@@ -53,3 +53,37 @@ class HelloWorldApp {
 Let's try making a Dog class.
 
 2. I made a Dog interface and a Dog class, but I haven't tested it yet because I don't know how to package them such that I can call the Dog class from a different Java file.
+
+# https://docs.oracle.com/javase/tutorial/java/package/QandE/packages-questions.html
+
+## Questions
+
+1. I will need to add the following line of code:
+
+```java
+package mygame;
+```
+
+Not sure if it should be:
+
+```java
+package mygame.server;
+package mygame.shared;
+package mygame.client;
+```
+
+for each file, since each package name is listed as such.
+
+2. What subdirectories must I create? Well, I need a `mygame` subdirectory, at least. I suppose within that subdirectory `eygame`, I need three more subdirectories: `server`, `shared`, and `client`.  Which subdirectory does each source file go in? To illustrate this, here's a nested list where each sub-bullet point is a subdirectory:
+
+- mygame
+  - server
+    - Server
+  - shared
+    - Utilities
+  - client
+    - Client
+
+3. Yes, you need to add import statements.
+
+[Answer key](https://docs.oracle.com/javase/tutorial/java/package/QandE/packages-answers.html)
