@@ -5,6 +5,13 @@ public class Dog implements DogInterface {
     String breed = "";
     boolean hungry = false;
 
+    public Dog(String newName, String newColor, String newBreed, boolean hunger) {
+        name = newName;
+        color = newColor;
+        breed = newBreed;
+        hungry = hunger;
+    }
+
     void setName(String newName) {
         name = newName;
     }
