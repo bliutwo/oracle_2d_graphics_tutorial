@@ -4,8 +4,8 @@
 
 Questions notes
 
-- instance variable
-- class variable
+- instance variable - non-static field
+- class variable - static field
 - local variable, temporary state, stored inside what?
 - parameter? opening and closing parens of a method signature
 - eight primitive data types

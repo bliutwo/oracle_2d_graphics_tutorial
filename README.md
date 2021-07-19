@@ -1,10 +1,12 @@
 # Oracle 2D Graphics Tutorial
 
+(7/19/21) **UPDATE**: For the purposes of actually creating a project, the boilerplate is way too high to setup. I'm just going to use the p5.js editor.
+
 Following [this tutorial](https://docs.oracle.com/javase/tutorial/2d/).
 
 Bookmark: [Lesson: Language Basics](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
 
-- [Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
+- [Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)t 
 
 Bookmark: [Creating and Using Packages](https://docs.oracle.com/javase/tutorial/java/package/packages.html)
 
